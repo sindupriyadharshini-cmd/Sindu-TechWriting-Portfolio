@@ -19,10 +19,9 @@ The portfolio includes examples that demonstrate my expertise in **structured wr
 2. **Release Notes** – Sample release notes highlighting new features and bug fixes  
 3. **API Documentation** – Example API reference with code snippets and usage scenarios  
 4. **Blog/Knowledge Article** – Educational blog post demonstrating technical content creation  
-5. **Visual Aid/Flow Diagram** – Annotated diagram simplifying a complex process  
-6. **How-to Guide / FAQ** – Step-by-step instructions for end users  
+5. **How-to Guide / FAQ** – Step-by-step instructions for end users  
 
-> I plan to continually add new samples, including **video scripts, tutorials, and interactive documentation**, to showcase a broader range of my technical writing skills.  
+> I plan to continually add new samples, including **video scripts, tutorials, and flow diagrams**, to showcase a broader range of my technical writing skills.  
 
 ---
 
