@@ -8,7 +8,7 @@ Thank you for visiting my technical writing portfolio. This repository showcases
 
 I am a **Technical Writer and Content Specialist** with a strong foundation in engineering and education. I have experience creating **user guides, API documentation, release notes, knowledge base articles, blogs, and visual aids**, while working closely with developers, QA engineers, and product managers.  
 
-This portfolio is designed to give recruiters, hiring managers, and collaborators a sense of my writing style, structured documentation skills, and familiarity with technical tools.
+This portfolio is designed to give a glimpse of my writing style, structured documentation skills, and familiarity with technical tools.
 
 ---
 ### 📂 Sample Work
